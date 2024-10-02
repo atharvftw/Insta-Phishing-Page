@@ -97,16 +97,14 @@ body {
 }
 
 .btn2 {
-    width: 80%;
-    height: 20px;
-    background-color: #3897f0;
-    border: 1px solid #3897f0;
-    padding: 5px 12px;
+    flex-grow: 1;
+    padding: 4px;
+    background-color: transparent;
     color: #fff;
-
-    cursor: pointer;
-    border-radius: 3px;
+    border: none;
     font-size: 14px;
+    cursor: pointer;
+    text-align: center;
 }
 
 .sub-content {
